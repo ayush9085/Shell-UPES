@@ -8,7 +8,7 @@ This repository helps me track my progress, improve logic, and revisit concepts 
 ## 🚀 Run a Script
 
 ```bash
-git clone https://github.com/<your-username>/Shell-UPES.git
+git clone https://github.com/<ayush9085>/Shell-UPES.git
 cd Shell-UPES
 chmod +x script_name.sh
 ./script_name.sh
